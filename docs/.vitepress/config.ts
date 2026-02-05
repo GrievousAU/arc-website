@@ -77,6 +77,7 @@ export default defineConfig({
           text: "Other Guides",
           collapsed: true,
           items: [
+            { text: 'FPS Guide', link: '/guides/other/fps-guide.md' },
             { text: 'Photo Mode', link: '/guides/other/photo-mode' },
             { text: 'VR Guide', link: '/guides/other/vr-guide' },
           ],
